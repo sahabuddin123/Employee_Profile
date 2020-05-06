@@ -1,0 +1,1 @@
+https://packagist.org/packages/cyrildewit/eloquent-viewable#4.x-dev
